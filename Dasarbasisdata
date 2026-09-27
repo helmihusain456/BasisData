@@ -1,0 +1,11 @@
+# membuat basis data
+CREATE DATABASE nim_250306001;
+
+# Melihat database keseluruhan
+SHOW DATABASES;
+
+# Menggunakan satu data
+USE nim_250306001;
+
+# Menghapus satu data
+DROP DATABASE nim_250306001;
